@@ -28,4 +28,4 @@ This repository showcases the **user interface (UI) only** and is **not a workin
 
 ![Hero-Son UI Preview](Pomodoro-Counter.jpeg)
 
-[Live Demo](https://erenkahramanoglu.github.io/hero-son-pomodoro/)
+[Live Demo:]("https://erenkahramanoglu.github.io/hero-son-pomodoro/")
