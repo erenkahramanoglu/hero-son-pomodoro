@@ -26,6 +26,6 @@ This repository showcases the **user interface (UI) only** and is **not a workin
 ## Preview
 > Below is a static preview of the UI. For live demonstration, see the GitHub Pages link below.
 
-![Hero-Son UI Preview]()
+![Hero-Son UI Preview](Pomodoro-Counter.jpeg)
 
-[Live Demo]()
+[Live Demo](https://erenkahramanoglu.github.io/hero-son-pomodoro/)
